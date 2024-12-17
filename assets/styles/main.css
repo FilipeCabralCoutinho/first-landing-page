@@ -32,7 +32,7 @@ h2{
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-image: url(assets/images/banner.png);
+    background-image: url(../assets/images/banner.png);
     background-size: cover;
     border-bottom: 3px solid #1572B7;
     padding-bottom: 60px;
@@ -137,7 +137,7 @@ color: #FFFFFF;
     align-items: center;
     text-align: left;
     height: 22.7em;
-    background-image: url(assets/images/woman-code.png);
+    background-image: url(../assets/images/woman-code.png);
     background-size: cover;
     background-attachment: fixed;
     border-bottom: 1px solid #1572B7;
